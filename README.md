@@ -1,7 +1,6 @@
 # Introduction
 
-You can go to Rapport_final.ipynb to see the whole project. 
+You can open `Rapport_final.ipynb` to view the complete project.
 
-It is a report written in jupyter notebook.
+The report was created using Jupyter Notebook and is written in French.
 
-The language that we used is french.
